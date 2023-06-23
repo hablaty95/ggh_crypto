@@ -1,2 +1,3 @@
 # ggh_crypto
-Implementation of GGH in sagemath
+Implementation of GGH encryption scheme in sagemath
+
